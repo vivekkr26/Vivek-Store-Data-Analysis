@@ -8,6 +8,10 @@ The dataset contains over **30,000 transaction records** including customer deta
 
 The objective of this project was to analyze sales performance, customer behavior, and business trends to generate actionable insights.
 
+## 📊 Project Dashboard Preview
+
+![Dashboard Preview](Dashboard.png)
+
 ---
 
 ## 📁 Dataset Details
